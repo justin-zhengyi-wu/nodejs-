@@ -1,0 +1,13 @@
+{
+    "name": "request-unspported-encoding",
+    "description": "How to handle unsupported encoding pages when use request.",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "request": "*",
+        "iconv-lite": "*"
+    }
+}
